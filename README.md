@@ -1,6 +1,5 @@
 # Hydrafb
 
-Disclaimer : This video does not support any type of illegal activity in any way. Hydrafb is created only for improving your ethical hacking skills. I don't take any responsibility of any illegal action done by you.
 
 New tool hack fb 
 A new tool for Facebook hacking You can view the explanation in my channel to find out the password, username and how to use it. Do the bell to get all the lessons.
