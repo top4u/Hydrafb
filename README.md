@@ -1,10 +1,10 @@
 # Hydrafb
 
+# New tool hack fb 
 
-New tool hack fb 
 A new tool for Facebook hacking You can view the explanation in my channel to find out the password, username and how to use it. Do the bell to get all the lessons.
 
-How To Install in Termux And Kali Linux 
+# How To Install in Termux And Kali Linux 
 
 pkg update && upgrade -y
 
@@ -20,7 +20,7 @@ cd hydranet
 
 python2 hydranet.py
 
-Username and password in my channel 
+# Username and password in my channel 
 
 my link channel wwww.youtube.com/c/hydranet
 
